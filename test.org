@@ -1,0 +1,10 @@
+* org-mode の Git上での表示テスト
+#+BEGIN_SRC tex
+  \documentclass[10pt]{jsarticle}
+  \title{タイトル}
+  \author{著者}
+  \data{\today}
+  \begin{document}
+  ほげ〜
+  \end{document}
+#+END_SRC
