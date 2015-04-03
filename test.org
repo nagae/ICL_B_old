@@ -1,4 +1,5 @@
 * org-mode の Git上での表示テスト
+TeX ソース
 #+BEGIN_SRC tex
   \documentclass[10pt]{jsarticle}
   \title{タイトル}
@@ -7,4 +8,12 @@
   \begin{document}
   ほげ〜
   \end{document}
+#+END_SRC
+C ソース
+#+BEGIN_SRC c
+  #include "stdio.h"
+  int main(void){
+    printf ("Hello World\n");
+    return 0;
+  }
 #+END_SRC
