@@ -28,4 +28,5 @@
 | 自白 | (0,-10)  | (-7,-7) |
 |------+----------+---------|
 ** 図
+#+ATTR_HTML: title="Google.com"
 [[file:fig/ubuntu_desktop.png]]
