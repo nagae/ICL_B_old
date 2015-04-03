@@ -1,5 +1,5 @@
 * org-mode の Git上での表示テスト
-TeX ソース
+** TeX ソース
 #+BEGIN_SRC tex
   \documentclass[10pt]{jsarticle}
   \title{タイトル}
@@ -9,7 +9,7 @@ TeX ソース
   ほげ〜
   \end{document}
 #+END_SRC
-C ソース
+** C ソース
 #+BEGIN_SRC c
   #include "stdio.h"
   int main(void){
@@ -17,7 +17,7 @@ C ソース
     return 0;
   }
 #+END_SRC
-表
+** 表
 |------+----------+---------|
 |      | 黙秘     | 自白    |
 |------+----------+---------|
@@ -25,3 +25,5 @@ C ソース
 |------+----------+---------|
 | 自白 | (0,-10)  | (-7,-7) |
 |------+----------+---------|
+** 図
+[[file:fig/ubuntu_desktop.png]]
