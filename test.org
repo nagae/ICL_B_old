@@ -1,4 +1,6 @@
 * org-mode の Git上での表示テスト
+** フォント
+*強調* /斜体/ _下線_ =code=, ~code~ +打ち消し+
 ** TeX ソース
 #+BEGIN_SRC tex
   \documentclass[10pt]{jsarticle}
