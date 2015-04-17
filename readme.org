@@ -5,7 +5,7 @@
 [[file:fig/raw_button.png]]
 
 * 講義予定 2015年度
-- 4/10 第1回 オリエンテーション :: [[file:ICL_B-01orientation-ver1_4.pdf][講義資料(ver1.4)]]
+- 4/10 第1回 オリエンテーション :: [[file:ICL_B-01orientation-ver1_5.pdf][講義資料(ver1.5)]]
   - 授業概要
   - 成績評価方法
   - システムへのログイン
