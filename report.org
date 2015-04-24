@@ -1,0 +1,8 @@
+* ISTU (Internet School of Tohoku University) を使ったレポートの提出方法
+1. SRP (https://www.srp.tohoku.ac.jp) から学生ポータルサイトに移動
+2. ISTU へのリンクをクリック
+   [[file:fig/portal_ISTU.png]]
+3. 
+   
+   
+* 
