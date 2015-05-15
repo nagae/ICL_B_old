@@ -29,7 +29,7 @@
   - platex によるコンパイル
   - dvipdfmx によるPDFへの変換
   - ドキュメントビューアによる確認
-- 5/15 第6回 アカデミック・スキル I - LaTeX (2) 文章の構造 :: [[file:ICL_B-06academic_skill_I_3-ver1_0.pdf][講義資料(ver1.0)]]
+- 5/15 第6回 アカデミック・スキル I - LaTeX (2) 文章の構造 :: [[file:ICL_B-06academic_skill_I_3-ver1_1.pdf][講義資料(ver1.1)]]
   - 文章の基本構造(章，節，段落，文)
   - パラグラフ・ライティングの重要性
   - 何から書き始めるか
